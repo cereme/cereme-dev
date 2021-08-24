@@ -35,6 +35,7 @@ type: about
 ## (주)하이퍼커넥트 (2021.06 ~ )
 
 - Position : Hyper-X Web Frontend Software Engineer
+  - React native
 
 ## (주)헤렌 (2019.12 ~ 2021.05)
 
@@ -91,14 +92,14 @@ type: about
 
 **Bold: Fluent**, _Italic: just experienced_, Normal: confident more than _italic_, less then **Bold** :)
 
-- Backend : **Falcon**, **Flask**, SQLAlchemy, Celery, Sanic, Django(DRF), Express.js, _gin-gonic_, _nestjs_
-- Web Frontend : **React.js**, **Next.js**, Vue.js(2.0), jQuery
-- DevOps : Docker, Prometheus, Grafana, Elastic Beanstalk, _Kubernetes_, _ECS_, _Terraform_
-- App dev : React Native(<0.60)
-- Database : MySQL, PostgreSQL, AWS Neptune, Redis, _MongoDB_
+- Backend : **DRF**, **FastAPI**, Express.js, Spring boot(w/ Kotlin), _go_, _nestjs_
+- Web Frontend : **React.js**, **Next.js**, Typescript, Vue.js, jQuery
+- DevOps : AWS, Docker, Prometheus, Grafana, Elastic Beanstalk, _Kubernetes_, _ECS_, _Terraform_
+- App dev : **React Native**, fastlane
+- Database : RDB, Redis, DynamoDB, _AWS Neptune_, _MongoDB_
 - Windows dev : Win32API
 - ML : _Keras_
-- Other : **Web Crawling&Scraping**, Selenium, Puppeteer, _Fiddler_
+- Other : **Web Automation(Crawling, Scraping)**, **Getting sh\*t done**
 
 # Awards
 
